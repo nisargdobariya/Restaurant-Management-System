@@ -224,7 +224,7 @@ Through this project, I gained practical experience in:
 **Nisarg Dobariya**
 
 - GitHub: https://github.com/nisargdobariya
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/nisargdobariya
 
 ---
 
